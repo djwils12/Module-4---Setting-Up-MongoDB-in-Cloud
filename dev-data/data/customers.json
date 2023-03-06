@@ -1,0 +1,52 @@
+[
+    {
+        "customerName": "David Wilson",
+        "phoneNumber": "(214)555-8888",
+        "address": "123 Main Street",
+        "loanAmount": 100000,
+        "interest": 0.03,
+        "loanTermYears": 30,
+        "loanType": "Mortgage",
+        "description": "30-year fixed mortgage"
+    },
+    {
+        "customerName": "John Smith",
+        "phoneNumber": "(214)666-9999",
+        "address": "456 Fake Street",
+        "loanAmount": 200000,
+        "interest": 0.03,
+        "loanTermYears": 30,
+        "loanType": "Mortgage",
+        "description": "30-year fixed mortgage"
+    },
+    {
+        "customerName": "Dan Jarvis",
+        "phoneNumber": "(214)223-8123",
+        "address": "4567 Something Way",
+        "loanAmount": 50000,
+        "interest": 0.05,
+        "loanTermYears": 15,
+        "loanType": "Mortgage",
+        "description": "15-year fixed mortgage"
+    },
+    {
+        "customerName": "Elon Musk",
+        "phoneNumber": "(469)803-1437",
+        "address": "1 SpaceX Parkway",
+        "loanAmount": 1000000,
+        "interest": 0.07,
+        "loanTermYears": 10,
+        "loanType": "Business Loan",
+        "description": "Business Loan for Rockets"
+    },
+    {
+        "customerName": "Jim Johnson",
+        "phoneNumber": "(469)111-4545",
+        "address": "999 Main Street",
+        "loanAmount": 20000,
+        "interest": 0.07,
+        "loanTermYears": 10,
+        "loanType": "Business Loan",
+        "description": "Small Business Loan"
+    }
+]
